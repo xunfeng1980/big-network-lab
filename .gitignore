@@ -1,0 +1,4 @@
+.vagrant/
+
+init-worker.sh
+containerd-config.toml
